@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "dsp_bloq")(type "KiCad")(uri "$(KIPRJMOD)/dsp_bloq.pretty")(options "")(descr ""))
+)

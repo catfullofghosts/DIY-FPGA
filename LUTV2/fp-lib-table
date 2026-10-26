@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "LUTV2")(type "KiCad")(uri "$(KIPRJMOD)/LUTV2.pretty")(options "")(descr ""))
+)

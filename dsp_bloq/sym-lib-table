@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 0)
+  (lib (name "dsp_bloq-eagle-import")(type "KiCad")(uri "${KIPRJMOD}/dsp_bloq-eagle-import.kicad_sym")(options "")(descr ""))
+)
